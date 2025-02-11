@@ -1,0 +1,1278 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(18, 17, 17);
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+}
+
+.nav1 {
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+}
+
+.criativo {
+    color: rgb(3, 246, 201);
+    font-size: 50px;
+}
+
+.small {
+    color: white;
+    font-size: 10px;
+    padding: 0px 40px;
+}
+
+.sectionone {
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(to left, rgb(26, 83, 72), rgb(18, 42, 38), rgb(8, 10, 9), rgb(8, 8, 8))
+}
+
+.firstpart {
+    padding: 150px 0px 0px 0px;
+    color: rgb(3, 246, 201);
+}
+
+.secondpart {
+    padding: 10px 0px 10px 0px;
+    color: white;
+    font-size: 70px;
+}
+
+.only {
+    color: rgb(3, 246, 201);
+}
+
+.thirdpart {
+    padding: 10px 0px 0px 0px;
+    font-size: 15px;
+    color: white;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+}
+
+.firstline {
+    margin-left: 0px;
+    width: 70px;
+    height: 1px;
+    border: none;
+    background-color: rgb(3, 246, 201);
+}
+
+.aboutus {
+    color: white;
+    margin-left: 100px;
+    margin-top: 60px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.Promotion {
+    color: rgb(3, 246, 201);
+    margin-left: 95px;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.sectiontwo {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.ourservice {
+    color: rgb(3, 246, 201);
+    padding-top: 180px;
+}
+
+.whatwedo {
+    font-size: 50px;
+    color: white;
+    padding: 10px 0px;
+}
+
+.onlytwo {
+    color: rgb(3, 246, 201);
+}
+
+.lorem {
+    color: white;
+    font-size: 15px;
+}
+
+.viewall {
+    color: white;
+    padding: 15px;
+    border: 1px solid black;
+    background-color: rgb(3, 246, 201);
+    width: 80px;
+    margin-top: 25px;
+}
+
+.three {
+    display: flex;
+    flex-direction: column;
+}
+
+.lorem {
+    padding: 15px 0px;
+}
+
+.four {
+    display: flex;
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+.brand {
+    background-color: rgb(21, 21, 21);
+    width: 300px;
+    height: 200px;
+}
+
+.uiux {
+    background-image: linear-gradient(to top, rgb(26, 83, 72), rgb(18, 42, 38), rgb(8, 10, 9), rgb(8, 8, 8));
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.website {
+    background-image: linear-gradient(to top, rgb(26, 83, 72), rgb(18, 42, 38), rgb(8, 10, 9), rgb(8, 8, 8));
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.video {
+    background-color: rgb(21, 21, 21);
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.imgtwo {
+    padding: 10px 0px 5px 105px;
+}
+
+.brandone {
+    padding-left: 70px;
+    color: white;
+    font-size: 25px;
+}
+
+.brandtwo {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.imgthree {
+    padding: 10px 0px 5px 105px;
+}
+
+.uiuxone {
+    padding-left: 70px;
+    color: white;
+    font-size: 25px;
+}
+
+.uiuxtwo {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.imgfour {
+    padding: 10px 0px 5px 105px;
+}
+
+.websiteone {
+    padding-left: 70px;
+    color: white;
+    font-size: 25px;
+}
+
+.websitetwo {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.imgfive {
+    padding: 10px 0px 5px 105px;
+}
+
+.videoone {
+    padding-left: 70px;
+    color: white;
+    font-size: 25px;
+}
+
+.videotwo {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.sectionfive {
+    background-color: rgb(14, 12, 12);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Aboutus {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.weuse {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlythree {
+    color: rgb(3, 246, 201);
+}
+
+.besideblind {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blind {
+    padding-top: 100px;
+}
+
+.loremone {
+    font-size: 15px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+
+.beside {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cleanone {
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.cleantwo {
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.modernone {
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.moderntwo {
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.clean {
+    background-color: rgb(14, 12, 12);
+    display: flex;
+}
+
+.modern {
+    background-color: rgb(14, 12, 12);
+    display: flex;
+    justify-content: space-around;
+}
+
+.helpone {
+    margin-top: 10px;
+}
+
+.helptwo {
+    margin-top: 10px;
+}
+
+.sectionsix {
+    background-image: linear-gradient(to right, rgb(26, 83, 72), rgb(18, 42, 38), rgb(8, 10, 9), rgb(8, 8, 8));
+    display: flex;
+    justify-content: space-between;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    padding-left: 170px;
+}
+
+.happy {
+    display: flex;
+    flex-direction: column;
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+
+.award {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 33%;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+}
+
+.projectone {
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+}
+
+.happyone {
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.awardone {
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.teamone {
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.onlyfour {
+    color: rgb(3, 246, 201);
+}
+
+.onlyfive {
+    color: rgb(3, 246, 201);
+}
+
+.onlysix {
+    color: rgb(3, 246, 201);
+}
+
+.onlyseven {
+    color: rgb(3, 246, 201);
+}
+
+.projecttwo {
+    color: white;
+    font-size: 15px;
+}
+
+.happytwo {
+    color: white;
+    font-size: 15px;
+}
+
+.awardtwo {
+    color: white;
+    font-size: 15px;
+}
+
+.teamtwo {
+    color: white;
+    font-size: 15px;
+}
+
+.teamphoto {
+    position: relative;
+    display: flex;
+}
+
+.sectionseven {
+    background-color: black;
+    display: flex;
+    padding-bottom: 90px;
+    padding-left: 200px;
+}
+
+.sevenone {
+    padding-top: 125px;
+    display: flex;
+    flex-direction: column;
+}
+
+.helpthree {
+    display: flex;
+    flex-direction: row;
+}
+
+.latest {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.us {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlyeight {
+    color: rgb(3, 246, 201);
+}
+
+.loremtwo {
+    color: white;
+    padding-top: 60px;
+}
+
+.loremthree {
+    color: white;
+    padding-top: 50px;
+}
+
+.loremfour {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.seventwo {
+    display: flex;
+    flex-direction: column;
+    padding-top: 83px;
+}
+
+.imgsix {
+    padding-bottom: 20px;
+}
+
+.sectioneight {
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to left, rgb(26, 83, 72), rgb(18, 42, 38), rgb(8, 10, 9), rgb(8, 8, 8));
+}
+
+.dee {
+    padding-top: 140px;
+    padding-bottom: 110px;
+}
+
+.walk {
+    padding-top: 140px;
+    padding-bottom: 110px;
+}
+
+.sky {
+    padding-top: 140px;
+    padding-bottom: 110px;
+}
+
+.eightone {
+    position: relative;
+}
+
+.talk {
+    position: absolute;
+    top: 38%;
+    right: 50%;
+}
+
+.ruby {
+    position: absolute;
+    top: 38%;
+    right: 0%;
+}
+
+.sectionnine {
+    background-color: black;
+    display: flex;
+}
+
+.nineone {
+    padding-top: 110px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 120px;
+    padding-left: 250px;
+}
+
+.why {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.thirty {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 130px;
+}
+
+.onlynine {
+    color: rgb(3, 246, 201);
+}
+
+.ninetwo {
+    padding-top: 180px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.loremfive {
+    color: white;
+    font-size: 15px;
+    padding-bottom: 65px;
+}
+
+.percent {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 17px;
+}
+
+.Experienced {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 130px;
+}
+
+.usone {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.meet {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlyten {
+    color: rgb(3, 246, 201);
+}
+
+.loremsix {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.loremseven {
+    color: white;
+    font-size: 15px;
+    padding-top: 3px;
+}
+
+.tenone {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(Bg-1.jpg);
+    background-size: cover;
+    padding-bottom: 50px;
+    background-position: center;
+}
+
+.tentwo {
+    background-image: url(Bg-1.jpg);
+    background-size: cover;
+    padding-left: 305px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-position: center;
+}
+
+.mike {
+    background-color: rgb(19, 18, 18);
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+
+.imgseven {
+    padding-left: 5px;
+}
+
+.contentone {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.mikeone {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.miketwo {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+    padding-bottom: 35px;
+}
+
+.loremeight {
+    color: white;
+    font-size: 15px;
+}
+
+.hana {
+    background-color: rgb(19, 18, 18);
+    width: 400px;
+    height: 200px;
+    display: flex;
+    margin-left: 15px;
+}
+
+.imgeight {
+    padding-left: 5px;
+}
+
+.contenttwo {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.hanaone {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.hanatwo {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+    padding-bottom: 35px;
+}
+
+.loremnine {
+    color: white;
+    font-size: 15px;
+}
+
+.lexi {
+    background-color: rgb(19, 18, 18);
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+
+.imgnine {
+    padding-left: 5px;
+}
+
+.contentthree {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.lexione {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.lexitwo {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+    padding-bottom: 35px;
+}
+
+.loremten {
+    color: white;
+    font-size: 15px;
+}
+
+.kevin {
+    background-color: rgb(19, 18, 18);
+    width: 400px;
+    height: 200px;
+    display: flex;
+    margin-left: 15px;
+}
+
+.imgten {
+    padding-left: 5px;
+}
+
+.contentfour {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.kevinone {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.kevintwo {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+    padding-bottom: 35px;
+}
+
+.loremeleven {
+    color: white;
+    font-size: 15px;
+}
+
+.person {
+    display: flex;
+}
+
+.personzero {
+    display: flex;
+    padding-top: 40px;
+}
+
+.sectioneleven {
+    background-color: rgb(14, 11, 11);
+    display: flex;
+    flex-direction: column;
+}
+
+.elevenone {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.portfolio {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.lw {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlyeleven {
+    color: rgb(3, 246, 201);
+}
+
+.loremtwelve {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.loremthirteen {
+    color: white;
+    font-size: 15px;
+    padding-top: 3px;
+}
+
+.listone {
+    display: flex;
+}
+
+.listtwo {
+    display: flex;
+    padding: 15px 0px;
+}
+
+.listthree {
+    display: flex;
+}
+
+.eleventwo {
+    padding-left: 280px;
+    padding-bottom: 90px;
+}
+
+.imone {
+    padding: 0px 15px;
+}
+
+.sectiontwelve {
+    display: flex;
+    background-image: url(adadad.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.twelveone {
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-left: 225px;
+}
+
+.testi {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.whatcl {
+    font-size: 50px;
+    color: white;
+    padding-bottom: 15px;
+}
+
+.onlytwelve {
+    color: rgb(3, 246, 201);
+}
+
+.loremfourteen {
+    font-size: 15px;
+    padding-top: 15px;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.view {
+    color: white;
+    background-color: rgb(3, 246, 201);
+    width: 200px;
+    padding: 15px;
+    margin-bottom: 100px;
+}
+
+.twelvetwo {
+    background-color: rgb(26, 23, 23);
+    opacity: 0.9;
+    width: 500px;
+    height: 230px;
+    margin-top: 130px;
+}
+
+.loremfifteen {
+    color: white;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.helpfour {
+    padding-top: 45px;
+    padding-left: 25px;
+    display: flex;
+}
+
+.imtwo {
+    border-radius: 30px;
+}
+
+.smallone {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.adam {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.bui {
+    color: rgb(3, 246, 201);
+}
+
+.sectionthirteen {
+    background-color: rgb(14, 11, 11);
+    flex: column;
+}
+
+.thirteenone {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.ourblog {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.oln {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlythirteen {
+    color: rgb(3, 246, 201);
+}
+
+.loremsixteen {
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.loremseventeen {
+    color: white;
+    font-size: 15px;
+    padding-top: 3px;
+}
+
+.thirteentwo {
+    display: flex;
+    padding-left: 240px;
+    padding-top: 20px;
+}
+
+.par {
+    display: flex;
+    flex-direction: column;
+}
+
+.elit {
+    color: rgb(3, 246, 201);
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.loremeighteen {
+    color: white;
+    font-size: 15px;
+    padding-top: 17.5px;
+}
+
+.helpfive {
+    padding-top: 35px;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 100px
+}
+
+.business {
+    padding-left: 35px;
+}
+
+.parone {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
+.elitone {
+    color: rgb(3, 246, 201);
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.loremninteen {
+    color: white;
+    font-size: 15px;
+    padding-top: 17.5px;
+}
+
+.helpsix {
+    padding-top: 35px;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 100px
+}
+
+.businessone {
+    padding-left: 35px;
+}
+
+.partwo {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
+.elittwo {
+    color: rgb(3, 246, 201);
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.loremtwenty {
+    color: white;
+    font-size: 15px;
+    padding-top: 17.5px;
+}
+
+.helpseven {
+    padding-top: 35px;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 100px
+}
+
+.businesstwo {
+    padding-left: 35px;
+}
+
+.sectionfourteen {
+    background-color: black;
+    display: flex;
+    padding-left: 250px;
+}
+
+.fieldset {
+    border-color: rgb(3, 246, 201);
+    margin-bottom: 100px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.yn {
+    color: rgb(3, 246, 201);
+    padding-top: 15px;
+    padding-left: 8px;
+}
+
+.typename {
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(33, 29, 29);
+    width: 450px;
+    height: 30px;
+    border-color: rgb(3, 246, 201);
+    margin-bottom: 15px;
+    margin-left: 8px;
+    margin-right: 13px;
+}
+
+.ye {
+    color: rgb(3, 246, 201);
+    padding-top: 15px;
+    padding-left: 8px;
+}
+
+.emailemail {
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(33, 29, 29);
+    width: 450px;
+    height: 30px;
+    border-color: rgb(3, 246, 201);
+    margin-bottom: 15px;
+    margin-left: 8px;
+    margin-right: 13px;
+}
+
+.ymo {
+    color: rgb(3, 246, 201);
+    padding-top: 15px;
+    padding-left: 8px;
+}
+
+.mcr {
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(33, 29, 29);
+    width: 450px;
+    height: 120px;
+    border-color: rgb(3, 246, 201);
+    margin-bottom: 20px;
+    margin-left: 8px;
+    margin-right: 13px;
+}
+
+.subm {
+    color: white;
+    background-color: rgb(3, 246, 201);
+    width: 400px;
+    height: 50px;
+    border-color: rgb(3, 246, 201);
+    margin-bottom: 75px;
+    margin-left: 8px;
+    margin-right: 13px;
+    font-size: 17px;
+}
+
+.formbeside {
+    padding-top: 120px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.testim {
+    color: rgb(3, 246, 201);
+    padding-bottom: 15px;
+}
+
+.getin {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.onlyfourteen {
+    color: rgb(3, 246, 201);
+}
+
+.loremtwentyone {
+    padding-top: 15px;
+    color: white;
+    font-size: 15px;
+    padding-bottom: 50px;
+}
+
+.helpeight {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-bottom: 25px;
+}
+
+.helpnine {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-bottom: 25px;
+}
+
+.helpten {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+}
+
+.officeadd {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
+.th {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+}
+
+.callus {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
+.number {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+}
+
+.mailus {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
+.infocom {
+    color: rgb(3, 246, 201);
+    font-size: 15px;
+}
+
+.finally{
+    background-color: rgb(15, 19, 17);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainfinal{
+    display: flex;
+    flex-direction: column;
+}
+.final{
+    color: rgb(3, 246, 201);
+    font-size: 70px;
+    padding-top: 100px;
+}
+
+.finall{
+    font-size: 15px;
+    color: white;
+    margin-left: 63px;
+}
+
+.navbar{
+    color: rgb(3, 246, 201);
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.finalloremone{
+    color: white;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+
+.finalloremtwo{
+    color: white;
+    padding-bottom: 80px;
+    font-size: 15px;
+}
+
+.finalloremthree{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.aboutusone{
+    padding: 0px 25px;
+}
+
+.portfolioone{
+    padding: 0px 25px;
+}
+
+.contactusone{
+    padding-left: 25px;
+}
